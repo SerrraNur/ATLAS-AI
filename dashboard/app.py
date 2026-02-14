@@ -70,3 +70,4 @@ if not df_logs.empty:
 
     st.subheader("📜 Traffic Logs")
     st.dataframe(df_logs, use_container_width=True)
+
